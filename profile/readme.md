@@ -7,7 +7,7 @@
   <h3 align="center">Okuyun (Read)</h3>
 
   <p align="center">
-   A comperhessive Quran project.
+   A comprehensive Quran project.
     <br />
     <a href="https://okuyun.org"><strong>Read and Search Quran</strong></a>
     <br />
